@@ -1,0 +1,27 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\title{Moravec’s paradox}
+
+\author{Submitted by Vinit kumar}
+
+\date{28th July 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Moravec’s paradox is the observation that, contrary to traditional assumptions, reasoning requires very little computation, but sensorimotor skills require enormous computational resources. The principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky and others in the 1980s. It is Comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception.
+
+\section{The biological basis of human skills}
+
+All human skills are implemented biologically, using machinery deigned by the process of natural selections. The older a skill is, the more time natural selection has had to improve he design. He says we should expect skills that appear effortless to be difficult to reverse-engineer, but skills that require effort may not necessarily be hard to engineer at all.
+
+\section{Historical influence on artificial intelligence}
+
+In the early days of artificial intelligence research, leading researchers often predicted that they would be able to create thinking machines in just a few decades. They had seen successful at writing programs that used logic, solved algebra and geometry problems and played games like checkers and chess. Rodney Brooks decided to build intelligent machines that had no cognition. Just sensing and action. This new direction, which he called Nouvelle AI was highly influential on robotics research and AI.
+
+\end{document}
