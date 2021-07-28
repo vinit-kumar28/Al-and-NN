@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Gödel’s incompleteness theorem}
+\author{Submitted by Vikas Kumar Wani}
+\date{22th July 2021}
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Kurt Gödel’s incompleteness theorems are two theory of mathematical logic. They concern the limits of probability in formal axiomatic theories. For any consistent formula system, there will always be statements about natural numbers that are true but unprovable within the system. The first in comply states that no consistence of axioms can be listed by an effective procedure capable of proving all truths about the arithmetic of natural numbers. 
+
+\section{Formal systems: completeness, consistency, and effective axiomatization}
+The incompleteness theorems apply to formal systems that are of sufficient complexity to express the basic arithmetic of the natural numbers. They show that the systems which contain a sufficient amount od arithmetic cannot possess all three of these properties. Theoretical systems can only be consistent if they are consistent, and effectively axiomatized.
+A formula system is said to be effectively axiomatized if its sets of theorems is a recursively enumerable set. This means that there is a computer program that could enumerate all the theorem of the system without any listing any statements that are not true. 
+Incompleteness theorems apply only to formula systems which can prove a sufficient collection of facts about the natural numbers. Some systems, such as peano arithmetic, can directly express statements about natural numbers into their language.
+In the standard systems of first-order logic, an inconsistent set of axioms will prove every statement in its language. It is not even possible for an infinite list of axioms to be complete, consistent, and effectively axiomatized.
+It has two type of incompleteness theorem that is
+A) First incompleteness theorem
+First incompleteness theorem is “any consistent formula system F within which a certain amount of elementary arithmetic can be carried out is incomplete; i.e., there are statements of the language of F which can neither be proved nor disproved in F.”
+B) Second incompleteness theorem 
+Second incompleteness theorem is “assume F is a consistent formalized system which contains elementary arithmetic.
+This theorem is stronger than the first incompleteness theorem because the statement constructed in the first incompleteness theorem does not directly express the consistency of the system. The proof of the second incompleteness theorem is obtained by formalizing the proof of the first incompleteness theorem within the system F itself.
+
+\section{Relationship with computability}
+Smorynski (1997) shows how the existence of recursively inseparable sets can be used to prove first incompleteness theorem. This proof is often extended to show that the systems such as peano arithmetic are essentially undecidable, Kleene (1967) says.
+Matiyasevich proved that there is no algorithm that determines whether there is an integer solution to the equation p= 0 . the incompleteness theorem is closely related to several results about undecidable sets in recursion theory. It can be used to obtain a proof to Gödel’s first incompletely.
+\section{conclusion}
+Incompleteness is a result of the fact that the all states in a system of formalism can be proved to be true. The results affect the philosophy od mathematics, particularly versions of formalistic formalism, which use a single system of logic to define their principles.
+
+
+\end{document}
