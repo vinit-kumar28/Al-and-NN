@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+\usepackage{caption}
+\usepackage{float}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{subcaption}
+\usepackage{txfonts}
+\usepackage[paperheight=29.7cm,paperwidth=21.0cm,left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
+
+\setlength\parindent{0pt}
+\renewcommand{\arraystretch}{1.3}
+\begin{document}
+\begin{center}
+{\Large Debunking Moon landing Conspiracies Using AI }
+\end{center}
+
+
+\begin{center}
+{\large Vinit kumar 18111059}
+\end{center}
+
+
+\begin{center}
+{\large July, 2021}
+\end{center}
+
+
+Moon landing conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA with the aid of other organizations. The most notable claim is that the six manned landings (1969–72) were faked and that 12 Apollo astronauts did not actually walk on the Moon. Various groups and individuals have made claims since the mid-1970s that NASA and others knowingly misled the public into believing the landings happened by manufacturing, tampering with or destroying evidence, including photos, telemetry tapes, radio and TV transmissions and Moon rock samples, and even killing some key witnesses. One of the theories that surround the landings was a photo taken by Neil Armstrong in which Buzz Aldrin is clambering down the lunar module’s ladder.
+
+\begin{center}
+\begin{figure}[H]
+\centering
+\begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{./images/image1.jpg}
+\end{subfigure}
+\hfill
+\ \ \ \ \ \begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{./images/image2.jpg}
+\end{subfigure}
+\end{figure}
+
+\end{center}
+
+
+\begin{center}
+\textit{(Left)Neil Armstrong’s shot of Buzz Aldrin clambering down the lunar module’s ladder. (Right) Its Reconstruction using AI and Deep learning Techniques.}
+\end{center}
+
+
+The conspiracy proposed was because the sun is behind the lunar module, and Aldrin is in its shadow, Aldrin must have been lit by something other than the sun. Some auxiliary light sources. Maybe in a back-lot studio. Perhaps somewhere in L.A. Was it an artificial light? Or – as one of NVIDIA’s senior GPU architects had suggested – was it a reflection from Armstrong’s bright white space suit? 
+
+How much can some guy in a white suit contribute to the scene? Turns out, quite a bit. By the use of AI and Deep Learning image reconstruction techniques, it could be reproduced that how light illuminated Aldrin as he stepped onto the moon’s surface at the exact moment Armstrong snapped his photo.  Another detail seized on by skeptics: photos from the landing site don’t show any stars. 
+
+That’s led some to claim that the U.S. Government faked the landing and left out the stars in the scene, because it would be impossible to portray the position of the stars from the moon. By using AI, it was further debunked. The reason the stars aren’t visible is the exposures in the camera are set to capture the scene on the Moon’s surface. But they’re there and its possible to find them by digitally changing the exposure on the shots to reveal them. \end{document}
